@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mihai Ureche (@umihai31)
-- 👀 I’m interested in Data Analyse field 
+- 👀 I’m interested in Data Analys field 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - umihai.ovidiu@gmail.com 
 - Take a look at my linktree: https://linktr.ee/umihai
